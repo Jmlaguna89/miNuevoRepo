@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.pldfreetotal" name="[COLOR lime]PLD-Free Total[/COLOR]" version="1.0.5" provider-name="[COLOR blue]proyectoluzdigital[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">PLD-Free Total Este addoan esta hecho para los Usuarios de PLD)</summary>
+    <description lang="en">Reproductor. PLD_FREETOTAL ofrecido para usted si tiene comentarios o sugerencias para este complemente, no dude en participar en el foro http://proyectoluzdigital.info/[CR]Plugin Creado Por EL GRUPO PLD</description>
+    <platform>all</platform>
+  </extension>
+</addon>
